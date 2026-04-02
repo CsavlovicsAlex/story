@@ -30,3 +30,9 @@ He tried to stop the american Government  and to this day he swears that the lia
 30 years later, he meets again with his old pet dying of old age with three croco-kids.
 If he forgives the crocodile, go to 777, if he kills the crocodile and takes care of croco-Ben, croco-Lizzy
 and croco-John, go to 888.
+
+777. Having passed a long time since their separation, the sight of his crocodile brings joy to Gabi's face, and
+he realizes that an arm isn't that important and that friendship - and peace - are the most important things in life.
+Looking back at his past, he realizes that he was blinded by hate and he fears turning into Anakin Skywalker. He is
+thankful for this opportunity of redemption and hugs his old friend in tears. They decide to spend one last day together
+(go to 465) or part ways right now, knowing that their paths end here (go to 673).
